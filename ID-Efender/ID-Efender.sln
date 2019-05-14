@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ID-Efender", "ID-Efender\ID-Efender.csproj", "{87A1DFE9-610B-4DDB-99E6-0D9AD2139B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A1DFE9-610B-4DDB-99E6-0D9AD2139B7E}.Debug|x86.ActiveCfg = Debug|x86
+		{87A1DFE9-610B-4DDB-99E6-0D9AD2139B7E}.Debug|x86.Build.0 = Debug|x86
+		{87A1DFE9-610B-4DDB-99E6-0D9AD2139B7E}.Release|x86.ActiveCfg = Release|x86
+		{87A1DFE9-610B-4DDB-99E6-0D9AD2139B7E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB645C46-1AA0-4C26-BAF3-0736BFB65AA2}
+	EndGlobalSection
+EndGlobal

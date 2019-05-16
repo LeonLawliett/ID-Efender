@@ -1,0 +1,44 @@
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Humans\Human0.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Humans\Human1.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Game UI\Invasion Meter Bar Near Full.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Game UI\Invasion Meter Bar.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Game UI\Invasion Meter Border.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Player\projectile-blue.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Player\spaceshipspritesheet.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\Abduction Ship Base.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\explosionspritesheet.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\Particle (alien ship).xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Button A.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Button X.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Cursor.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\DPad.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\logospritesheet.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Audio\explosion.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Audio\Game Loop.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Audio\Intro.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Background Base.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\ID-Efender.exe
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\ID-Efender.pdb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.csprojAssemblyReference.cache
+E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.csproj.CoreCompileInputs.cache
+E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.csproj.CopyComplete
+E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.exe
+E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.pdb

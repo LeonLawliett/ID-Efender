@@ -1,6 +1,8 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Collections.Generic;
+
 
 namespace ID_Efender
 {
@@ -11,6 +13,14 @@ namespace ID_Efender
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+
+        //Utility
+        GamePadState pad1;
+
+        //Player Ship
+        PlayerShip playerShip;
+        private static int PLAYERFPS = 4;
+        private static float PLAYERSPEED = 10f;
 
         public Game1()
         {
@@ -40,6 +50,8 @@ namespace ID_Efender
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
+            playerShip = new PlayerShip(Content.Load<Texture2D>("Player//spaceshipspritesheet"), PLAYERFPS, 0, graphics.PreferredBackBufferHeight / 2, PLAYERSPEED);
+
             // TODO: use this.Content to load your game content here
         }
 
@@ -62,7 +74,10 @@ namespace ID_Efender
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
+            pad1 = GamePad.GetState(PlayerIndex.One);
             // TODO: Add your update logic here
+
+            playerShip.UpdateMe(pad1);
 
             base.Update(gameTime);
         }
@@ -76,7 +91,9 @@ namespace ID_Efender
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
-
+            spriteBatch.Begin();
+            playerShip.DrawMe(spriteBatch, gameTime);
+            spriteBatch.End();
             base.Draw(gameTime);
         }
     }

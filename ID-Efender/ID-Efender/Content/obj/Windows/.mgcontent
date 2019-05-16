@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Background Base.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Enemy/Abduction Ship Base.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Enemy/explosionspritesheet.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Enemy/Particle (alien ship).png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Humans/Human0.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Humans/Human1.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Player/projectile-blue.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Main Menu/Cursor.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Main Menu/DPad.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Main Menu/logospritesheet.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Main Menu/Button A.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Main Menu/Button X.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Game UI/Invasion Meter Bar.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Game UI/Invasion Meter Border.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Game UI/Invasion Meter Bar Near Full.png</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Audio/Intro.wav</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Audio/Game Loop.wav</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Audio/explosion.wav</File>
+    <File>E:/ID-Efender/ID-Efender/ID-Efender/Content/Player/spaceshipspritesheet.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -7,7 +7,6 @@ E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Player\project
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Player\spaceshipspritesheet.xnb
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\Abduction Ship Base.xnb
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\explosionspritesheet.xnb
-E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\Particle (alien ship).xnb
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Button A.xnb
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Button X.xnb
 E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Main Menu\Cursor.xnb
@@ -42,3 +41,10 @@ E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.csproj.CoreCompileI
 E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.csproj.CopyComplete
 E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.exe
 E:\ID-Efender\ID-Efender\ID-Efender\obj\x86\Debug\ID-Efender.pdb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Enemy\Particle.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Fonts\MainMenuBig.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Fonts\MainMenuSmall.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Fonts\GameFont.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Fonts\ScoreScreenFont.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Button Back.xnb
+E:\ID-Efender\ID-Efender\ID-Efender\bin\Windows\x86\Debug\Content\Fonts\ScorePopUp.xnb

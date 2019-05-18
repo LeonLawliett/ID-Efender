@@ -12,7 +12,7 @@ namespace ID_Efender
     class PlayerShip
     {
         //Position/Movement stuff
-        private Rectangle m_collisionrect;
+        public Rectangle collisionrect;
         private Vector2 m_velocity;
         private float m_speed;
 
@@ -24,27 +24,29 @@ namespace ID_Efender
             Right
         }
         Texture2D m_spriteSheet;
-        private AnimState m_currState;
+        public AnimState currState;
         private Rectangle m_animcell;
         private float m_frameTimer;
         private float m_fps;
         private static int WIDTH = 75;
 
-        public PlayerShip(Texture2D spritesheet, int fps, int xpos, int ypos, float speed)
+        //Constructor
+        public PlayerShip(Texture2D spritesheet, float fps, int xpos, int ypos, float speed)
         {
             //Animation
-            m_currState = AnimState.Right;
+            currState = AnimState.Right;
             m_spriteSheet = spritesheet;
             m_animcell = new Rectangle(0, 0, WIDTH, m_spriteSheet.Height);
             m_frameTimer = 1;
             m_fps = fps;
 
             //Movement
-            m_collisionrect = new Rectangle(xpos, ypos, WIDTH, m_spriteSheet.Height);
+            collisionrect = new Rectangle(xpos, ypos, WIDTH, m_spriteSheet.Height);
             m_speed = speed;
             m_velocity = Vector2.Zero;
         }
 
+        //Update
         public void UpdateMe(GamePadState pad1)
         {
             //Movement
@@ -64,18 +66,19 @@ namespace ID_Efender
             if (pad1.DPad.Right == ButtonState.Pressed)
             {
                 m_velocity.X = m_speed;
-                m_currState = AnimState.Right;
+                currState = AnimState.Right;
             }
             else if (pad1.DPad.Left == ButtonState.Pressed)
             {
                 m_velocity.X = -m_speed;
-                m_currState = AnimState.Left;
+                currState = AnimState.Left;
             }
 
-            m_collisionrect.X += (int)m_velocity.X;
-            m_collisionrect.Y += (int)m_velocity.Y;
+            collisionrect.X += (int)m_velocity.X;
+            collisionrect.Y += (int)m_velocity.Y;
         }
-
+        
+        //Draw
         public void DrawMe(SpriteBatch sb, GameTime gt)
         {
             //Animation
@@ -94,20 +97,15 @@ namespace ID_Efender
             }
 
             //Directional state machine
-            switch (m_currState)
+            switch (currState)
             {
                 case AnimState.Right:
-                    sb.Draw(m_spriteSheet, m_collisionrect, m_animcell, Color.White);
+                    sb.Draw(m_spriteSheet, collisionrect, m_animcell, Color.White);
                     break;
                 case AnimState.Left:
-                    sb.Draw(m_spriteSheet, new Vector2(m_collisionrect.X, m_collisionrect.Y), m_animcell, Color.White, 0, Vector2.Zero, 1, SpriteEffects.FlipHorizontally, 0);
+                    sb.Draw(m_spriteSheet, new Vector2(collisionrect.X, collisionrect.Y), m_animcell, Color.White, 0, Vector2.Zero, 1, SpriteEffects.FlipHorizontally, 0);
                     break;
             }
-        }
-
-        public AnimState GetState()
-        {
-            return m_currState;
         }
     }
 }

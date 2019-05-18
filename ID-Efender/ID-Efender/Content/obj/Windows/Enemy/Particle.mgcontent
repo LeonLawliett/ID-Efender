@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>E:/ID-Efender/ID-Efender/ID-Efender/Content/Enemy/Particle (alien ship).png</SourceFile>
+  <SourceFile>E:/ID-Efender/ID-Efender/ID-Efender/Content/Enemy/Particle.png</SourceFile>
   <SourceTime>2018-11-30T12:43:12.5691921+00:00</SourceTime>
-  <DestFile>E:/ID-Efender/ID-Efender/ID-Efender/Content/bin/Windows/Enemy/Particle (alien ship).xnb</DestFile>
-  <DestTime>2019-05-16T00:29:01.3978661+01:00</DestTime>
+  <DestFile>E:/ID-Efender/ID-Efender/ID-Efender/Content/bin/Windows/Enemy/Particle.xnb</DestFile>
+  <DestTime>2019-05-17T14:55:02.3202377+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
